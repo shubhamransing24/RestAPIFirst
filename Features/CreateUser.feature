@@ -12,4 +12,4 @@
 	And I input role "Tester"
 	When I send create user request
 	Then validate user is created
-	#todo-more things
+	#todo-more thin
